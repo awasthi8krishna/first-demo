@@ -7,8 +7,8 @@ Author - Krishna Awasthi
 // A Simple and Beginer Level C# Program :)
 <br>
 
-#include<stdio.h>  
-int main() {
+    #include<stdio.h>  
+    int main() {
     int i, j, n;
     printf("Enter the number of rows: ");
     scanf("%d", &n);
@@ -19,5 +19,5 @@ int main() {
         printf("\n");
      }
 
-  return 0;  
-}
+    return 0;  
+    }
