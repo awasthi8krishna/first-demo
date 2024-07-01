@@ -4,7 +4,7 @@ This is my first GIT Repository
 Author - Krishna Awasthi
 <br>
 <br>
-// A Simple and Beginer Level C# Program :)
+// A Simple and Beginner Level C# Program :)
 <br>
 
     #include<stdio.h>  
