@@ -3,11 +3,12 @@ This is my first GIT Repository
 <br>
 Author - Krishna Awasthi
 <br>
+<br>
+// A Simple and Beginer Level C# Program :)
+<br>
+
 #include<stdio.h>  
 int main() {
-
-     //Program to print 'star' right triangle
-
     int i, j, n;
     printf("Enter the number of rows: ");
     scanf("%d", &n);
@@ -18,5 +19,5 @@ int main() {
         printf("\n");
      }
 
-    return 0;  
+  return 0;  
 }
